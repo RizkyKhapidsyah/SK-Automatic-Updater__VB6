@@ -1,0 +1,10 @@
+[Version]
+Version=1.0.1
+DOR=11/06/2000
+Filesize1=1.12
+Filesize2=MB
+Whatsnew=This is a test update to the program. This will not update the program. This is only a test. REPEAT this is only a test.
+DownloadSite=www.croftssoftware.com
+DownloadPath=pub
+DownloadFile=Slipknot_-_10_-_liberate.mp3
+CloseProgramBeforeUpdate=No
